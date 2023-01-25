@@ -1,0 +1,5 @@
+com\phsafi\market\shoppingcart\ShoppingCartModel.class
+com\phsafi\market\MarketApplication.class
+com\phsafi\market\shoppingcart\ShoppingCartBusiness.class
+com\phsafi\market\shoppingcart\ShoppingCartController.class
+com\phsafi\market\shoppingcart\ShoppingCartFilter.class
